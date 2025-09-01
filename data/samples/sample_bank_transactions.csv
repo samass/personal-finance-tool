@@ -1,0 +1,59 @@
+Date,Amount,Description,Balance
+2024-01-01,2500.00,Salary - ABC Company,2500.00
+2024-01-02,-850.00,Rent Payment - Main St Apartments,1650.00
+2024-01-03,-45.67,Grocery Store - Fresh Market,1604.33
+2024-01-04,-12.50,Coffee Shop - Daily Grind,1591.83
+2024-01-05,-65.00,Gas Station - Shell,1526.83
+2024-01-06,-25.99,Netflix Subscription,1500.84
+2024-01-07,-89.45,Restaurant - Pizza Palace,1411.39
+2024-01-08,-156.78,Shopping - Amazon,1254.61
+2024-01-09,-15.00,Parking Fee,1239.61
+2024-01-10,-78.90,Grocery Store - Fresh Market,1160.71
+2024-01-11,-35.00,Phone Bill - Verizon,1125.71
+2024-01-12,-120.00,Electric Bill - City Power,1005.71
+2024-01-13,-67.50,Gas Station - BP,938.21
+2024-01-14,-42.30,Restaurant - Burger King,895.91
+2024-01-15,2500.00,Salary - ABC Company,3395.91
+2024-01-16,-850.00,Rent Payment - Main St Apartments,2545.91
+2024-01-17,-98.76,Grocery Store - Fresh Market,2447.15
+2024-01-18,-23.45,Coffee Shop - Daily Grind,2423.70
+2024-01-19,-180.00,Car Insurance - State Farm,2243.70
+2024-01-20,-56.78,Restaurant - Thai Garden,2186.92
+2024-01-21,-145.90,Shopping - Target,2041.02
+2024-01-22,-75.00,Gas Station - Exxon,1966.02
+2024-01-23,-89.99,Internet Bill - Comcast,1876.03
+2024-01-24,-34.50,Pharmacy - CVS,1841.53
+2024-01-25,-125.67,Grocery Store - Fresh Market,1715.86
+2024-01-26,-28.00,Movie Theater - AMC,1687.86
+2024-01-27,-67.89,Restaurant - Olive Garden,1619.97
+2024-01-28,-45.60,Gas Station - Shell,1574.37
+2024-01-29,-234.56,Shopping - Best Buy,1339.81
+2024-01-30,-78.90,Grocery Store - Fresh Market,1260.91
+2024-02-01,2500.00,Salary - ABC Company,3760.91
+2024-02-02,-850.00,Rent Payment - Main St Apartments,2910.91
+2024-02-03,-67.89,Grocery Store - Fresh Market,2843.02
+2024-02-04,-15.75,Coffee Shop - Daily Grind,2827.27
+2024-02-05,-89.45,Gas Station - BP,2737.82
+2024-02-06,-25.99,Netflix Subscription,2711.83
+2024-02-07,-76.54,Restaurant - Chinese Express,2635.29
+2024-02-08,-198.76,Shopping - Walmart,2436.53
+2024-02-09,-20.00,Parking Fee,2416.53
+2024-02-10,-56.78,Grocery Store - Fresh Market,2359.75
+2024-02-11,-35.00,Phone Bill - Verizon,2324.75
+2024-02-12,-135.00,Water Bill - City Utilities,2189.75
+2024-02-13,-78.90,Gas Station - Exxon,2110.85
+2024-02-14,-89.99,Restaurant - Steakhouse,2020.86
+2024-02-15,2500.00,Salary - ABC Company,4520.86
+2024-02-16,-850.00,Rent Payment - Main St Apartments,3670.86
+2024-02-17,-123.45,Grocery Store - Fresh Market,3547.41
+2024-02-18,-18.50,Coffee Shop - Daily Grind,3528.91
+2024-02-19,-67.89,Gas Station - Shell,3461.02
+2024-02-20,-78.90,Restaurant - Mexican Grill,3382.12
+2024-02-21,-267.89,Shopping - Amazon,3114.23
+2024-02-22,-89.45,Gas Station - BP,3024.78
+2024-02-23,-89.99,Internet Bill - Comcast,2934.79
+2024-02-24,-45.67,Pharmacy - Walgreens,2889.12
+2024-02-25,-98.76,Grocery Store - Fresh Market,2790.36
+2024-02-26,-34.50,Movie Theater - Regal,2755.86
+2024-02-27,-56.78,Restaurant - Sushi Bar,2699.08
+2024-02-28,-67.89,Gas Station - Exxon,2631.19

@@ -1,0 +1,124 @@
+# Personal Finance Tool Configuration
+
+# Default Categories
+default_categories:
+  income:
+    - name: "Salary"
+      icon: "💰"
+      color: "#27ae60"
+      description: "Regular salary and wages"
+    - name: "Freelance"
+      icon: "💼"
+      color: "#2ecc71"
+      description: "Freelance and contract work"
+    - name: "Investment Returns"
+      icon: "📈"
+      color: "#16a085"
+      description: "Dividends, interest, capital gains"
+    - name: "Other Income"
+      icon: "💵"
+      color: "#1abc9c"
+      description: "Other income sources"
+
+  expenses:
+    - name: "Housing"
+      icon: "🏠"
+      color: "#e74c3c"
+      description: "Rent, mortgage, utilities"
+    - name: "Transportation"
+      icon: "🚗"
+      color: "#e67e22"
+      description: "Gas, public transport, car maintenance"
+    - name: "Food & Dining"
+      icon: "🍽️"
+      color: "#f39c12"
+      description: "Groceries, restaurants, dining out"
+    - name: "Shopping"
+      icon: "🛍️"
+      color: "#9b59b6"
+      description: "Clothing, electronics, general shopping"
+    - name: "Healthcare"
+      icon: "🏥"
+      color: "#e91e63"
+      description: "Medical expenses, insurance, medications"
+    - name: "Entertainment"
+      icon: "🎬"
+      color: "#673ab7"
+      description: "Movies, games, hobbies, subscriptions"
+    - name: "Bills & Utilities"
+      icon: "📞"
+      color: "#607d8b"
+      description: "Phone, internet, electricity, gas"
+    - name: "Insurance"
+      icon: "🛡️"
+      color: "#795548"
+      description: "Life, health, car, home insurance"
+    - name: "Banking & Finance"
+      icon: "🏦"
+      color: "#455a64"
+      description: "Bank fees, loan payments, transfers"
+    - name: "Education"
+      icon: "📚"
+      color: "#ff9800"
+      description: "Tuition, books, courses, training"
+
+# Bank CSV Format Templates
+csv_templates:
+  generic:
+    name: "Generic CSV"
+    columns:
+      date: "Date"
+      amount: "Amount"
+      description: "Description"
+      balance: "Balance"
+      reference: "Reference"
+    date_format: "%Y-%m-%d"
+    
+  uk_bank:
+    name: "UK Bank Standard"
+    columns:
+      date: "Transaction Date"
+      amount: "Amount"
+      description: "Description"
+      balance: "Balance"
+      reference: "Reference"
+    date_format: "%d/%m/%Y"
+    
+  us_bank:
+    name: "US Bank Standard"
+    columns:
+      date: "Posting Date"
+      amount: "Amount"
+      description: "Description"
+      reference: "Check or Slip #"
+    date_format: "%m/%d/%Y"
+
+# Application Settings
+app_settings:
+  default_currency: "USD"
+  date_format: "%Y-%m-%d"
+  decimal_places: 2
+  
+  # Chart colors (colorblind-friendly palette)
+  chart_colors:
+    - "#1f77b4"  # Blue
+    - "#ff7f0e"  # Orange
+    - "#2ca02c"  # Green
+    - "#d62728"  # Red
+    - "#9467bd"  # Purple
+    - "#8c564b"  # Brown
+    - "#e377c2"  # Pink
+    - "#7f7f7f"  # Gray
+    - "#bcbd22"  # Olive
+    - "#17becf"  # Cyan
+
+# Budget Recommendations (percentage of income)
+budget_guidelines:
+  housing: 30  # Housing should not exceed 30% of income
+  transportation: 15
+  food: 12
+  utilities: 8
+  insurance: 5
+  healthcare: 5
+  entertainment: 5
+  savings: 20  # Recommended savings rate
